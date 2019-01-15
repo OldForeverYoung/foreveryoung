@@ -1,0 +1,16 @@
+{
+    "name": "oldforeveryoung/foreveryoung",
+    "description": "dev",
+    "type": "lesson",
+    "require": {
+        "phpmailer/phpmailer": "dev-master"
+    },
+    "license": "BeerWare",
+    "authors": [
+        {
+            "name": "Sasha Odrobinskyi",
+            "email": "alien100101@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
